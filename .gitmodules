@@ -1,0 +1,3 @@
+[submodule "clean_architecture"]
+	path = clean_architecture
+	url = https://github.com/ArnaudSene/clean_architecture.git
